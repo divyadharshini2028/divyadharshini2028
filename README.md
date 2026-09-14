@@ -284,13 +284,13 @@ projects.
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=divyadharshini2028&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFFF&icon_color=8A2BE2&text_color=ffffff"/>
+<img src="https://github-readme-stats.vercel.app/api?username=divyadharshini2028&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyadharshini2028&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFFF&text_color=ffffff"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyadharshini2028&layout=compact&theme=radical&hide_border=true" height="180"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=divyadharshini2028&theme=radical&hide_border=true&background=0D1117&stroke=8A2BE2&ring=00FFFF&fire=FF69B4&currStreakLabel=00FFFF"/>
+<img src="https://streak-stats.demolab.com/?user=divyadharshini2028&theme=radical&hide_border=true" height="180"/>
 
 </div>
 
