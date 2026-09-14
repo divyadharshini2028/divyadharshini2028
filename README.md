@@ -278,22 +278,6 @@ projects.
 - 🏅 **Cisco Networking Academy – Introduction to Cybersecurity**
 - 🏅 **SQL Basics**
 
-<!-- ==================== GITHUB ANALYTICS ==================== -->
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=divyadharshini2028&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyadharshini2028&layout=compact&theme=radical&hide_border=true" height="180"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=divyadharshini2028&theme=radical&hide_border=true" height="180"/>
-
-</div>
-
 <!-- ==================== CONTRIBUTION SNAKE ==================== -->
 
 ## 🐍 Contribution Snake
