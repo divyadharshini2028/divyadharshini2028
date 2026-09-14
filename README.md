@@ -1,68 +1,45 @@
-╔══════════════════════════════════════════════════════╗
+        ╭──────────────────────────────────╮
+        │                                  │
+        │       👋 HI, I'M DIVYA           │
+        │                                  │
+        │    🤖 AI & DATA SCIENCE          │
+        │                                  │
+        │  [animated typing effect]        │
+        │                                  │
+        ╰──────────────────────────────────╯
 
-              👋 Hi, I'm Divya Dharshini
+              🧠 ABOUT ME
 
-       🤖 AI & Data Science Student
-   Machine Learning • Computer Vision • Data Science
+       🎓 AI & Data Science
+       📊 CGPA 8.42
+       🤖 AI / ML / Computer Vision
 
-        [ Python ] [ Java ] [ C++ ] [ SQL ]
 
-╠══════════════════════════════════════════════════════╣
+          ⚡ TECH STACK ⚡
 
-                    🧠 ABOUT ME
+    🐍   ☕   ⚡   🔥   👁️   🎯   📊
 
-  🎓 B.Tech AI & Data Science
-  🏫 Bannari Amman Institute of Technology
-  📊 CGPA: 8.42
-  🔭 Building AI-driven real-world solutions
-  🌱 Exploring ML, CV & emerging technologies
 
-╠══════════════════════════════════════════════════════╣
+        🚀 FEATURED PROJECTS
 
-                  🛠️ TECH STACK
+     👁️ EyeWitness AI
+     📊 Occupancy Heatmap
+     🛣️ SafeNet AI
+     📄 LLM Resume Screening
 
-     🐍 Python     ☕ Java       ⚡ C++
-     🗄️ SQL        🔥 PyTorch    👁️ OpenCV
-     🎯 YOLO       📊 Pandas     🤖 Scikit-learn
 
-╠══════════════════════════════════════════════════════╣
+          🏆 ACHIEVEMENTS
 
-                  🚀 FEATURED PROJECTS
+     🥈 Celesta'25
+     🏅 HackZen'26
+     🚀 Fix Forward 2026
 
-       👁️ EyeWitness AI
-       ─────────────────────────
-       AI-powered CCTV intrusion detection
 
-       📊 Occupancy Heatmap
-       ─────────────────────────
-       Real-time tracking & occupancy analytics
+             📊 GITHUB
 
-       🛣️ SafeNet AI
-       ─────────────────────────
-       Intelligent road-risk prediction
+       [animated statistics]
 
-       📄 LLM Resume Screening
-       ─────────────────────────
-       AI-powered talent matching
 
-╠══════════════════════════════════════════════════════╣
+        🤝 LET'S CONNECT
 
-                 🏆 ACHIEVEMENTS
-
-       🥈 Celesta'25 — 2nd Prize
-       🏅 HackZen'26 — Finalist
-       🚀 Fix Forward 2026 — Round 2
-
-╠══════════════════════════════════════════════════════╣
-
-                  📊 GITHUB STATS
-
-        Contributions • Repositories • Stars
-
-╠══════════════════════════════════════════════════════╣
-
-                  🤝 CONNECT WITH ME
-
-        💼 LinkedIn    💻 GitHub    🧩 LeetCode
-
-╚══════════════════════════════════════════════════════╝
+      💼     🐙     🧩
