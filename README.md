@@ -116,7 +116,7 @@ AI-powered multi-camera CCTV intrusion detection system.
 
 <br/>
 
-<a href="REPLACE_WITH_EYEWITNESS_REPOSITORY_URL">
+<a href="https://github.com/divyadharshini2028/EyeWitness-AI">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -143,7 +143,7 @@ Real-time occupancy analytics and visualization system.
 
 <br/>
 
-<a href="REPLACE_WITH_OCCUPANCY_REPOSITORY_URL">
+<a href="https://github.com/divyadharshini2028/Intelligence-Occupancy-Heatmap-Generation">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -228,7 +228,7 @@ Service Request → Vehicle Inspection → Cost Estimation → Customer Approval
 
 <br/><br/>
 
-<a href="REPLACE_WITH_PEGA_REPOSITORY_URL">
+<a href="https://github.com/divyadharshini2028/NIP-VehicleService-Divyadharshini">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
